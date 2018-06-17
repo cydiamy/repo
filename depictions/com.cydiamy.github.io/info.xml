@@ -1,0 +1,44 @@
+<package>
+	<id>com.cydiamy.github.io</id>
+	<name>Full Package</name>
+	<version>0.8</version>
+	<compatibility>
+		<firmware>
+			<miniOS>7.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+	</dependencies>
+	<descriptionlist>
+		<description>This is an package will full depictions.</description>
+		<description>It has more description lines.</description>
+		<description><![CDATA[
+		You can also have<br/> 
+		a multi-line item.
+		]]>
+		</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description>صوره 1</description>
+			<image>cydia.jpg</image>
+		</screenshot>		
+		<screenshot>
+			<description>صوره2</description>
+			<image>cydia.jpg</image>
+		</screenshot>		
+	</screenshots>
+	<changelog>
+		<change>التحديثات</change>
+		<change>beta 0.1 </change>
+		<change>beta 0.8 </change>
+	</changelog>
+	<links>
+		<link>
+			<name>/r/jailbreak</name>
+			<url>https://www.reddit.com/r/jailbreak</url>
+			<iconclass>fa fa-reddit</iconclass>
+		</link>
+	</links>
+</package>
